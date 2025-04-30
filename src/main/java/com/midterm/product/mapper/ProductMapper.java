@@ -14,4 +14,7 @@ public interface ProductMapper {
 		
 		Map<String, Object> selectProductDetail(Map<String, Object> paramsMap);
 	
+		
+		
+		
 }
